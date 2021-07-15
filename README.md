@@ -5,12 +5,12 @@
 
 #### My name is `Toni Bardina` and Im a `Fullstack developer` from `Barcelona`
 
-##### Im currently working at [Camaloon](https://camaloon.com)
+#### Im currently working at [Camaloon](https://camaloon.com)
 
-##### This is my contact info:
+#### This is my contact info:
 
-⋅⋅* Email -> tonibardina@gmail.com
-⋅⋅* Instagram -> toni.code 
+* Email -> tonibardina@gmail.com
+* Instagram -> toni.code 
 
 <!--
 **tonibardina/tonibardina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
