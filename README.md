@@ -1,4 +1,4 @@
-![joshua-woroniecki-lzh3hPtJz9c-unsplash](https://user-images.githubusercontent.com/29999392/125836878-244fc331-2345-42f8-aac6-f4d029eb6a26.jpg)
+![Asset 20](https://user-images.githubusercontent.com/29999392/125837175-cc7de7b4-bb9c-4da1-a3ba-8a2f527c4bf2.png)
 
 ### Hi there 👋
 ---
@@ -9,8 +9,8 @@
 
 #### This is my contact info:
 
-* Email -> tonibardina@gmail.com
-* Instagram -> toni.code 
+* ![baixa (1)](https://user-images.githubusercontent.com/29999392/125837490-54fa33bd-624d-4095-8a15-359abe7565d9.png) Email -> tonibardina@gmail.com 
+* ![baixa](https://user-images.githubusercontent.com/29999392/125837475-2d044a43-a0c4-46f9-9a99-58947e602d10.png) Instagram -> toni.code 
 
 <!--
 **tonibardina/tonibardina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
