@@ -13,3 +13,4 @@
 
 * Email -> tonibardina@gmail.com 
 * Instagram -> toni.code 
+* Linkedin -> https://www.linkedin.com/in/toni-bardina-comas-4a435113a/
