@@ -1,4 +1,4 @@
-![Asset 20](https://user-images.githubusercontent.com/29999392/125837175-cc7de7b4-bb9c-4da1-a3ba-8a2f527c4bf2.png)
+[![My github activity graph](https://activity-graph.herokuapp.com/graph?username=tonibardina)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Hi there 👋
 ---
