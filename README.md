@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tonibardina&theme=black-ice)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tonibardina&count_private=true&show_icons=true&theme=tokyo-night)
+
 ### Hi there 👋
 ---
 
