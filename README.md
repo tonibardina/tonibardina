@@ -16,5 +16,5 @@
 #### This is my contact info:
 
 * Email -> tonibardina@gmail.com 
-* Instagram -> toni.code 
+* Instagram -> developer.toni 
 * Linkedin -> https://www.linkedin.com/in/toni-bardina-comas-4a435113a/
