@@ -9,9 +9,9 @@
 
 #### My name is `Toni Bardina` and Im a `Fullstack developer` from `Barcelona`
 
-#### Im currently working at [Camaloon](https://camaloon.com)
+#### Im currently working at [DataMynt](https://datamynt.com)
 
-#### 🌱 I’m currently learning Ruby(RoR), Design patterns, SQL
+#### 🌱 I’m currently learning Blockchain, Rust ...
 
 #### This is my contact info:
 
